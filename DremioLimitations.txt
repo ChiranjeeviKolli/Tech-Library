@@ -1,0 +1,18 @@
+Dremio Limitation:
+
+1. There is no OData kind of service currently available in Dremio.
+
+https://community.dremio.com/t/odata-datasource-support/442/2
+
+2. General questions on Dremio.
+
+https://community.dremio.com/t/general-questions-about-dremio/396
+
+3. REST API Job results 500 rows limit.
+
+https://community.dremio.com/t/rest-api-job-results-500-row-limit-actually-499/1430
+
+
+
+
+
