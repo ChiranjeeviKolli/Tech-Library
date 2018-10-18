@@ -12,6 +12,9 @@ https://community.dremio.com/t/general-questions-about-dremio/396
 
 https://community.dremio.com/t/rest-api-job-results-500-row-limit-actually-499/1430
 
+4. There is no CLI available in Dremio.
+
+https://community.dremio.com/t/dremio-to-connect-to-db-via-jdbc/252/6
 
 
 
